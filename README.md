@@ -136,13 +136,12 @@ A modern event management platform with QR-based check-in and analytics.
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushiyadav8421&theme=github_dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ayushiyadav8421&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ayushiyadav8421&theme=radical&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushiyadav8421&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushiyadav8421&theme=github_dark" />
-  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayushiyadav8421&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 ## 🤝 Let's Connect
